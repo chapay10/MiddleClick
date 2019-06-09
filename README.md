@@ -4,6 +4,10 @@ Emulate a middleclick with triple tap on MacBook trackpad and Magic Mouse. Use p
 
 Not maintained anymore
 
-# Download
+#Credits
 
-https://github.com/cl3m/MiddleClick/releases
+This project was made by [Clément Beffa](http://clement.beffa.org/) and the original version can be found here: http://rouge41.com/labs/
+
+I replaced triple tap with double tap and edited launch for all multitouch devices except first
+
+# Download
